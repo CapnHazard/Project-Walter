@@ -56,7 +56,7 @@ Existing solutions require stable internet, making them ineffective in conflict 
 ## 🏗️ Architecture
 
 ```
-┌─────────────────────┐     ┌──────────────────────┐     ┌─────────────────────┐
+┌─────────────────────┐     ┌──────────────────────┐      ┌─────────────────────┐
 │   Frontend (React)  │     │   Firebase Backend    │     │  External Services  │
 │                     │     │                       │     │                     │
 │ React 19 +          │────▶│ Firebase Auth         │────▶│ Mapbox Geocoding    │
@@ -101,8 +101,8 @@ Existing solutions require stable internet, making them ineffective in conflict 
 ### Installation
 
 ```bash
-git clone https://github.com/CapnHazard/yudh-sarthi.git
-cd yudh-sarthi
+git clone https://github.com/CapnHazard/Project-Walter.git
+cd Project-Walter
 npm install
 ```
 
