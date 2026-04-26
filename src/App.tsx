@@ -273,7 +273,7 @@ export default function App() {
             <Shield className="w-12 h-12 text-white" />
           </div>
           <h1 className="text-4xl font-black tracking-tighter uppercase leading-none">
-            Rapid Crisis<br />Response
+            YUDH SARTHI<br />
           </h1>
           <p className="text-zinc-500 text-sm font-medium uppercase tracking-widest">
             Emergency Management System

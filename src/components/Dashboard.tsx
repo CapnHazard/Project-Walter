@@ -488,7 +488,7 @@ const Dashboard: React.FC<DashboardProps> = ({ userRole, onLogout }) => {
             <Shield className="w-6 h-6 text-white" />
           </div>
           <div>
-            <h1 className="text-xl font-bold tracking-tight uppercase">RAPID CRISIS RESPONSE</h1>
+            <h1 className="text-xl font-bold tracking-tight uppercase">YUDH SARTHI</h1>
             <p className="text-[10px] text-zinc-500 uppercase tracking-widest font-semibold">Government of India • Emergency Services</p>
           </div>
         </div>
