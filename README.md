@@ -101,7 +101,7 @@ Existing solutions require stable internet, making them ineffective in conflict 
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/yudh-sarthi.git
+git clone https://github.com/CapnHazard/yudh-sarthi.git
 cd yudh-sarthi
 npm install
 ```
