@@ -222,25 +222,10 @@ yudh-sarthi/
 
 ---
 
-## 👥 Team
-
-| Name | Role |
-|------|------|
-| [Team Leader Name] | Lead Developer |
-| [Member 2] | Frontend |
-| [Member 3] | Backend / Firebase |
-| [Member 4] | UI/UX + Documentation |
-
-**Institution:** KIIT University, Bhubaneswar
-**Challenge:** Google Solution Challenge 2026 — Rapid Crisis Response: Open Innovation
-
----
-
 ## 📎 Links
 
 - 🌐 **Live App:** https://yudh-sarthi-d3481.web.app
-- 🎥 **Demo Video:** [Add link]
-- 📊 **Presentation:** [Add link]
+- 🎥 **Demo Video:** https://drive.google.com/file/d/1whHGiq7pxVjxUbEDF9rPTec8EBs6ltC_/view?usp=sharing
 
 ---
 
